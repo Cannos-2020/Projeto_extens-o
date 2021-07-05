@@ -1,0 +1,56 @@
+#diviCards{
+    width: 80%; 
+    display: flex;
+    padding-top: 20px;
+}
+div.footer {
+    background: url(../img/lapisRodape1.jpeg) repeat;
+    border: 2px solid black;
+    
+  }
+  div.background {
+    background: url(../img/lapisRodape1.jpeg) no-repeat; 
+     border: 0.1px solid black; 
+  }
+  
+  /* div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+  } */
+  
+  div.transbox p {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+
+  }
+
+  .div-body{
+    width: 100%;
+    background-color: #87CEFA;
+    height: 100%;
+
+  }
+
+  .conteudo{
+    background-color: #ffffff;
+    width: 80%;
+  }
+
+  .texto{
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: justify;
+  }
+
+  .atividades{
+    width: 300px;
+  }
+
+  .alinhar{
+    margin-left: auto;
+    margin-right: auto;
+  }
+
